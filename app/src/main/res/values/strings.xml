@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PaginationExampleProject</string>
+    <string name="home">Home</string>
+    <string name="id_heading">ID:</string>
+    <string name="title">Title:</string>
+    <string name="body">Body:</string>
+    <string name="detail">Detail</string>
+    <string name="backArrow">Back Arrow</string>
+</resources>
